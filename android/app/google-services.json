@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "913834396547",
+    "firebase_url": "https://putra-scada-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "putra-scada",
+    "storage_bucket": "putra-scada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913834396547:android:14f7c0edb0fee85763c4b6",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationtutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgd-hSXpDowtQzudzCJ5ETm3bTQ77wuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913834396547:android:6b92698aa144d1c663c4b6",
+        "android_client_info": {
+          "package_name": "com.example.putra_scada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgd-hSXpDowtQzudzCJ5ETm3bTQ77wuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
